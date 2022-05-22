@@ -1,0 +1,17 @@
+﻿  Game1.cpp
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\basefunction.h(51,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\basefunction.h(62,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(86,28): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(105,27): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(107,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(108,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(210,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(213,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(237,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(249,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Game1.cpp(304,20): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\basefunction.h(51,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\basefunction.h(62,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Generating Code...
+  Game1.vcxproj -> C:\Users\nguye\OneDrive\Máy tính\SDL\Game\Game1\Debug\Game1.exe
