@@ -1,7 +1,7 @@
 # Machine Game
 # Bài tập cuối khóa môn LTNC 
 * Tên sinh viên: Nguyễn Đồng Hưng 
-* MSV: 21020002
+* MSV: 21020766
 * Lớp: K66CB
 # Hướng dẫn cài đặt 
 * Download các thư mục game từ github về máy.
